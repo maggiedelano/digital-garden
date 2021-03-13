@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+
+	"settings":
+    {
+        "Jekyll":
+        {
+            "jekyll_posts_path": "/Users/mdelano1/digital-garden/_notes",
+            "jekyll_drafts_path": "/Users/mdelano1/digital-garden/_drafts"
+        }
+    }
+}
