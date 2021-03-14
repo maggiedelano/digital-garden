@@ -7,15 +7,18 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+I'm experimenting with [digital gardening](https://maggieappleton.com/garden-history), a low friction way to share my thoughts and resources.
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+So far I'm fleshing out the following pages:
+- [[Helpful Books]]
+- [[Quantified Self]]
+- [[Inclusive Engineering Design]]
+- [[Tech Stack]]
+- [[Favorite Problems]]
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
+If you enjoy this digital garden and would like to connect, definitely [[Contact Me|get in touch]].
 
-If this template helps you in any way, [consider buying me a coffee](https://ko-fi.com/maximevaillancourt)! ☕️
+This digital garden is based on this [digital garden jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template). The static html files are deployed using Github pages. I'm editing my markdown files using [Obsidian](https://obsidian.md/), but any text editor will do.
 
 <style>
   .wrapper {

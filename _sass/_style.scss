@@ -97,6 +97,12 @@ a {
   &.reversefootnote:after {
     content: "";
   }
+  &.footnote:after {
+    content: "";
+  }
+  &.reversefootnote:after {
+    content: "";
+  }
 }
 
 *:focus {
