@@ -16,7 +16,7 @@ The broader impact criterion is included because the NSF believes that tax payer
 
 Broader impacts may therefore be accomplished through several avenues of the proposal, including through the research itself (e.g. cancer treatment), through activities that are directly related to the research project (e.g. research opportunities for students from underrepresented groups), or through activities that are supported by, but are complementary to, the project (e.g. outreach activities funded by the grant).
 
-# Use at NeurIPS 2021
+# Use at NeurIPS 2020
 
 While the broader impacts criterion in the context of an NSF grant is meant to emphasize the potential benefits of the proposed research to participants and to society, broader impacts statements at NeurIPS 2020 were focused on evaluating both benefits and harms of the work that has already been conducted:
 > In order to provide a balanced perspective, authors are required to include a statement of the potential broader impact of their work, including its ethical aspects and future societal consequences. Authors should take care to discuss both positive and negative outcomes. ([source](https://neurips.cc/Conferences/2020/CallForPapers))
