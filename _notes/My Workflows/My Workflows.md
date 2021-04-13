@@ -9,8 +9,8 @@ This is the entry node to a set of notes on my workflows. The creation of these 
 	- [[Weekly Review]]	
 	- `[[Daily Plan]] (coming soon)`
 - Long Term Planning
+	- [[Semester Plan]]
 	- `[[Value Plan]] (coming soon) `
-	- `[[Semester Plan]] (coming soon)`
 - Personal Knowledge Management
 	- `[[Capture Workflow]] (coming soon)`
 

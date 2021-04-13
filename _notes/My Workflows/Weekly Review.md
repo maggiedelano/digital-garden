@@ -17,6 +17,7 @@ Here's the current list of tasks I complete for the weekly review:
 - Process personal e-mail inbox
 - Process work e-mail inbox (optional)
 - Process [Drafts App](https://getdrafts.com/) inbox [^3]
+- Add any unprocessed notes in [[Roam Research]] into my permanent note index
 - Tag all of my [Pinboard](https://pinboard.in/) links
 - Process items with the `#[[Quick Capture]]` tag in [[Roam Research]]
 - Clean out my computer Desktop and Downloads folders [^1] 
