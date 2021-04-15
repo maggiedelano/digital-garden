@@ -47,5 +47,5 @@ Tiago Forte has a lot of great writing about weekly reviews. Here's [one post](h
 # Notes
 [^3]: I will talk in more detail about some of my processing/tagging workflow in [[Capture Workflow]], and possibly elaborate on other steps as well.
 [^1]: This is incredibly helpful, as it forces me to either delete random screenshots and documents forever, or move them to a better location on my hard drive. I mostly follow the [PARA Method](https://fortelabs.co/blog/para/) for organizing my hard drive.
-[^2]: I update the block references to the priorities and deadlines in my [[Roam Research]] graph (see [[Daily Plan]]).
+[^2]: I update the block references to the priorities and deadlines in my [[Roam Research]] graph (see [[Daily Review]]).
 [^4]: Keyboard Maestro is not needed for this; templates or SmartBlocks work just as well. I just have had it set up this way since before templates were an option and I like not having to hit enter for it to trigger.
