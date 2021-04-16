@@ -1,5 +1,5 @@
 ---
-title: Morning Review
+title: Daily Review
 ---
 
 This note is part of the series of notes about [[My Workflows]].

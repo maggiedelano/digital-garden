@@ -8,6 +8,7 @@ This is the entry node to a set of notes on my workflows. The creation of these 
 - Short Term Planning
 	- [[Weekly Review]]	
 	- [[Daily Review]]
+	- [[Daily Reflection]]
 - Long Term Planning
 	- [[Semester Plan]]
 	- `[[Value Plan]] (coming soon) `

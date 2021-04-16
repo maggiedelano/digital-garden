@@ -3,7 +3,6 @@
 
 Pages:
 
-- [[Daily Review]] (started, not up)
 - [[Daily Reflection]] (not started, not up)
 - [[Value Plan]] (not started, not up)
 - [[Capture Workflow]] (not started, not up)
@@ -13,6 +12,7 @@ Pages:
 
 - [[Weekly Review]] (up, done for now)
 - [[Semester Plan]] (up, done for now)
+- [[Daily Review]] (up, done for now)
 
 Thoughts:
 - probably want to add more to the PKM section, but starting with planning first seems like a reasonable compromise
