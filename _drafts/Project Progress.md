@@ -3,17 +3,20 @@
 
 Pages:
 
-- [[Daily Reflection]] (not started, not up)
 - [[Value Plan]] (not started, not up)
 - [[Capture Workflow]] (not started, not up)
 - [[Project Management]] (not started, not up)
 - [[Habit Tracking]] (not started, not up)
 - [[Writing Workflow]] (not started, not up) <- evergreen notes, this garden, ???
+- [[Why Workflows?]]
 
-- [[Weekly Review]] (up, done for now)
-- [[Semester Plan]] (up, done for now)
-- [[Daily Review]] (up, done for now)
+Up:
+- [[Weekly Review]] 
+- [[Semester Plan]] 
+- [[Daily Review]] 
+- [[Daily Reflection]] 
 
 Thoughts:
 - probably want to add more to the PKM section, but starting with planning first seems like a reasonable compromise
-- also what about adding something about evening reflections?
+- be clear that there is a real value in all these, but that VALUES ultimately are the real driver and these are indeed strategies, need to know *how*, but also *what* and *why*
+- 

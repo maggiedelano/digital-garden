@@ -15,6 +15,7 @@ Right now I'm actively working on a set of notes around [[My Workflows]]. I've a
 - [[Helpful Books]]
 - [[Quantified Self]]
 - [[Inclusive Engineering Design]]
+- [[Teaching Resources]]
 
 This digital garden is based on this [digital garden jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template). The static html files are deployed using Github pages. I'm editing my markdown files using [Obsidian](https://obsidian.md/), but any text editor will do.
 
