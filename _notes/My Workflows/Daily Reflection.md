@@ -4,6 +4,9 @@ title: Daily Reflection
 
 This note is part of the series of notes about [[My Workflows]].
 
+# Summer 2021 Update
+After experimenting with the daily reflection workflow below, I decided to stop doing it as it began to feel like a chore. Finding the right frequency for reflection is something I'm thinking about, and whether I might want different prompts to ask instead. Leaving the rest of the post here in case it is helpful for anyone.
+
 # High Level
 I take a couple minutes at the end of each day to review how things went this day. I allow myself to free write what I feel like, and I write down my responses to prompts and my current emotional state.
 

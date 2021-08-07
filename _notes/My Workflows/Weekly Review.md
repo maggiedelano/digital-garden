@@ -16,9 +16,8 @@ Here's the current list of tasks I complete for the weekly review:
 
 - Process personal e-mail inbox
 - Process work e-mail inbox (optional)
-- Process [Drafts App](https://getdrafts.com/) inbox [^3]
-- Add any unprocessed notes in [[Roam Research]] into my permanent note index
-- Tag all of my [Pinboard](https://pinboard.in/) links
+- Process [Obsidian](https://obsidian.md/) inbox [^3]
+- Process and tag all of my [Raindrop](https://raindrop.io/) links
 - Process items with the `#[[Quick Capture]]` tag in [[Roam Research]]
 - Clean out my computer Desktop and Downloads folders [^1] 
 - Review and update my budget on [You Need A Budget](https://www.youneedabudget.com/)
@@ -33,7 +32,7 @@ Here's the current list of tasks I complete for the weekly review:
 	- Complete project review on OmniFocus and choose items to focus on for the coming week
 	- Choose my top three priorities for the upcoming week
 	- Update daily plan [Roam42 SmartBlock](https://github.com/roamhacker/SmartBlocks) with top three priorities and upcoming deadlines [^2]
-	- Assign tasks to specific days (optional) 
+	- Assign tasks to specific days
 
 ## Template
 I have written out the tasks listed above as a set of to dos in [[Roam Research]]. I then copied and pasted the tasks into a [Keyboard Maestro](https://www.keyboardmaestro.com/main/) shortcut that I can trigger by typing `rmwk`.[^4] I nest each Weekly Review under the current date on the Weekly Review page so I can easily go back and look at past reviews. I also block reference the Plus, Minus, Next exercise prompts so I can see the responses to the prompts over time.
@@ -45,7 +44,7 @@ In an ideal world I think I would spend a bit more time on the reflection questi
 Tiago Forte has a lot of great writing about weekly reviews. Here's [one post](https://fortelabs.co/blog/the-one-touch-guide-to-doing-a-weekly-review/) to get started.
 
 # Notes
-[^3]: I will talk in more detail about some of my processing/tagging workflow in [[Capture Workflow]], and possibly elaborate on other steps as well.
+[^3]: I talk in more detail about some of my processing/tagging workflow in [[Capture Workflow]].
 [^1]: This is incredibly helpful, as it forces me to either delete random screenshots and documents forever, or move them to a better location on my hard drive. I mostly follow the [PARA Method](https://fortelabs.co/blog/para/) for organizing my hard drive.
 [^2]: I update the block references to the priorities and deadlines in my [[Roam Research]] graph (see [[Daily Review]]).
 [^4]: Keyboard Maestro is not needed for this; templates or SmartBlocks work just as well. I just have had it set up this way since before templates were an option and I like not having to hit enter for it to trigger.

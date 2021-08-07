@@ -4,7 +4,6 @@
 Pages:
 
 - [[Value Plan]] (not started, not up)
-- [[Capture Workflow]] (not started, not up)
 - [[Project Management]] (not started, not up)
 - [[Habit Tracking]] (not started, not up)
 - [[Writing Workflow]] (not started, not up) <- evergreen notes, this garden, ???
@@ -15,6 +14,7 @@ Up:
 - [[Semester Plan]] 
 - [[Daily Review]] 
 - [[Daily Reflection]] 
+- [[Capture Workflow]]
 
 Thoughts:
 - probably want to add more to the PKM section, but starting with planning first seems like a reasonable compromise

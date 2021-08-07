@@ -13,7 +13,7 @@ This is the entry node to a set of notes on my workflows. The creation of these 
 	- [[Semester Plan]]
 	- `[[Value Plan]] (coming soon) `
 - Personal Knowledge Management
-	- `[[Capture Workflow]] (coming soon)`
+	- [[Capture Workflow]]
 
 # Notes
 [^1]: Cal specifically discusses the benefits of documenting workflows for an individual; I'm experimenting with this site both to help me and to potentially help others. 
