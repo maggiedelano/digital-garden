@@ -22,6 +22,7 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-toc
 
 sass:
   sass_dir:          _sass

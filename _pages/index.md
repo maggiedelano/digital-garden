@@ -9,7 +9,7 @@ permalink: /
 
 I'm experimenting with [digital gardening](https://maggieappleton.com/garden-history), a low friction way to share my thoughts and resources.
 
-Right now I'm actively working on a set of notes around [[My Workflows]]. I've also begun fleshing out a few other pages related to my past and current interests:
+Right now I'm actively working on a set of notes around [[My Workflows]]. Students or anyone looking career advice can check out my [[Unsolicited Career Advice]]. I've also begun fleshing out a few other pages related to my past and current interests:
 
 - [[Favorite Problems]]
 - [[Helpful Books]]
